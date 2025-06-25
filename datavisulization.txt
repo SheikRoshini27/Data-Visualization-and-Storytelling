@@ -1,0 +1,83 @@
+# 📊 Sales Data Visualization & Storytelling
+
+## 🧠 Objective
+This project focuses on converting raw sales data into meaningful business insights through interactive dashboards. Using Tableau or Power BI, we highlight key sales and profitability trends across different regions and product categories.
+
+---
+
+## 📁 Dataset
+**Dataset Used**: `salesdata.csv`
+
+📌 **Source**: [Sample Sales Data on Kaggle](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
+
+### Key Columns:
+- `Order ID`: Unique identifier for each transaction
+- `Date`: Order date (format: DD-MM-YYYY)
+- `Region`: Geographical region (East, West, Central, South)
+- `Category`: Main product category (Furniture, Office, Technology)
+- `Sub-Category`: Specific product group (e.g., Chairs, Phones, Binders)
+- `Sales`: Revenue from the order
+- `Profit`: Net profit from the order
+
+**Total Records**: 16  
+**Time Period Covered**: January 2023 (sample dataset)
+
+---
+
+## 🛠 Tools Used
+- Tableau / Power BI  
+- Excel (optional, for minor cleaning)
+- GitHub for version control and documentation
+
+---
+
+## 📈 Visualizations Created
+1. **Regional Sales & Profit**
+2. **Category-wise Sales Distribution**
+3. **Profitability Trends**
+4. **Time Series Analysis**
+
+---
+
+## ✨ Key Insights
+- High sales from Technology category
+- Losses in some Furniture sub-categories
+- Central Region is notably profitable
+
+---
+
+## 🧾 Summary Slide / Storyboard
+Includes:
+- Key business questions
+- Visual-driven insights
+- Strategic recommendations
+
+---
+
+## ✅ Outcome
+- Developed skills in visual storytelling
+- Created clean, interactive dashboards
+- Gained insights into data-driven decision-making
+
+---
+
+## 📷 Visual Report
+Final dashboards/screenshots are available in the `report/` folder.
+
+---
+
+## 📚 How to Run
+1. Clone this repository
+2. Open the Tableau (`.twbx`) or Power BI (`.pbix`) file
+3. Load `salesdata.csv` or download it from Kaggle (link above)
+4. Explore the dashboards
+
+---
+
+## 🤝 Contributions
+Open to pull requests and suggestions!
+
+---
+
+## 🔗 License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
